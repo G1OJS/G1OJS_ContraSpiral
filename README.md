@@ -9,4 +9,6 @@ Above is my first build of a helix antenna described in [W6NBC's paper in QST](h
 
 This repo is new as of 30th June 2025 and will be developed if my experiments with stacking these antennas is successful. Amongst the folders are NEC files and results, though as John says in his article, don't take dimensions from the NEC files as definitive as your helix will use different materials and potentially be a slightly different size. The overall length of conductor, at around half a wavelength, seems to be an important constant. All TBC.
 
+I'm thinking about building a pair of helixes, closely stacked with opposite 'sense' to cancel the vertical polarisation and force it into horizontal - which 4nec2 seems to indicate should work: [folder link](https://github.com/G1OJS/144MHz_Helix_Antennas/tree/main/2m%20Pair%20of%202turn%20Helices%201)
+
 The helix in the picture is fed via a 1:1 transmission line balun rather than using a common mode inductance with an unknown distributed capacitance, because the former seem to me to be more reliably repeatable.
