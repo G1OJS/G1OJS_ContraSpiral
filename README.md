@@ -11,6 +11,6 @@ This repo is new as of 30th June 2025 and will be developed if my experiments wi
 
 Another job is to turn the 4nec2 output into a file I can use to look at how polarisation resolves into V, H, LHCP and RHCP against position around the antenna.
 
-I'm thinking about building a pair of helixes, closely stacked with opposite 'sense' to cancel the vertical polarisation and force it into horizontal - which 4nec2 seems to indicate should work: [folder link](https://github.com/G1OJS/144MHz_Helix_Antennas/tree/main/2m%20Pair%20of%202turn%20Helices%201)
+I've now also built a pair of helixes, closely stacked with opposite 'sense' to cancel the vertical polarisation and force it into horizontal - which seems to work well: [folder link](https://github.com/G1OJS/144MHz_Helix_Antennas/tree/main/G1OJS_Contraspiral)
 
 The helix in the picture is fed via a 1:1 transmission line balun rather than using a common mode inductance with an unknown distributed capacitance, because the former seem to me to be more reliably repeatable.
