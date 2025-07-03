@@ -1,5 +1,8 @@
 '  INPUTS -----------------------------------------
 ' 
+'  Note that dimensions don't exactly match the practical build 
+'  due to loading effects of PVC pipe and proximity of feed
+'
 SY FMHz=144.2			'frequency MHz
 SY dHelix=160.5347		'Helix diameter mm
 SY tHelix=2			'Number of turns
