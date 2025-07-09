@@ -7,5 +7,7 @@ After building the two turn helix described in [W6NBC's paper in QST](https://w6
 
 This is a very compact antenna, with 0 dBd in all compass directions, and fits inside the non-functional decorative GRP chimney pot on my house (i.e. right at the top in the circular pot, not the square section below).
 
-[This post](https://www.instagram.com/reel/DLw5KKeIX6D) on my Instagram shows the second build of this antenna using an old gym roller as a support, and it works really well.
+![Capture](https://github.com/user-attachments/assets/9718a9c7-b52f-482a-b3e8-cb67391bd37a)
+
+The image above is from [This post](https://www.instagram.com/reel/DLw5KKeIX6D) on my Instagram showing the second build of this antenna using an old gym roller as a support, and it works really well.
 
