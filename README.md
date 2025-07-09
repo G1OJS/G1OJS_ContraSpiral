@@ -1,4 +1,4 @@
-# G1OJS Contraspiral
+# G1OJS Contraspiral Compact 2m Horizontally Polarised Antenna
 ## Compact horizontally polarized antenna inspired by W6NBC's 2 turn helix 
 
 ![G1OJS Contraspiral ppt slide 2](https://github.com/user-attachments/assets/a1ef0325-089f-4dd7-92f8-7b0459eb7c45)
