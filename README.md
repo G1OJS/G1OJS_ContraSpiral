@@ -9,5 +9,6 @@ This is a very compact antenna, with 0 dBd in all compass directions, and fits i
 
 ![Capture](https://github.com/user-attachments/assets/9718a9c7-b52f-482a-b3e8-cb67391bd37a)
 
-The image above is from [This post](https://www.instagram.com/reel/DLw5KKeIX6D) on my Instagram showing the second build of this antenna using an old gym roller as a support, and it works really well.
+The image above is from [This post](https://www.instagram.com/reel/DLw5KKeIX6D) on my Instagram showing the second build of this antenna using an old gym roller as a support, and it works really well (as you can see below, getting me over the hills that I thought would block the Netherlands forever!)
 
+![Contraspiral to PA0RDY](https://github.com/user-attachments/assets/ac7509c7-fe48-4ac6-b6bd-cb1b1c4060e5)
